@@ -1,0 +1,10 @@
+.carousel-item{
+    height: 700px;
+    
+    
+}
+
+.carousel-imge-1{
+    background-image: url("mju/mju1.jpg");
+    background-size: cover;
+}
